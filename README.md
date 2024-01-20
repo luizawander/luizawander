@@ -4,9 +4,20 @@
 
 📱 fale comigo de forma mais fácil em: https://wa.me/5521979757982
 
-## Atualmente estudo e desenvolvo projetos em:
+## Atualmente estudo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="90" height="90" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/>
+
+## Atuando em:
+
+**Projetos pessoais:**
+
+🚀 Chat Automatizado para Whatsapp: Simulando um atendimento de uma empresa provedora de internet. Fazendo conexão com um banco de dados no MySQL e com a API do whatsapp.
+
+**Estudos:**
+
+🚀 Formação ONE - Oracle Next Education, em parceria com a Alura.
+
 
 ## Me encontre também em:
 
