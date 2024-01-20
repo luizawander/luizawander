@@ -2,11 +2,13 @@
 
 ⚡ Sou desenvolvedora backend e estou no terceiro período de Análise e Desenvolvimento de Sistemas. 
 
+📱 fale comigo de forma mais fácil em: https://wa.me/5521979757982
+
 ## Atualmente estudo e desenvolvo projetos em:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="90" height="90" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/>
 
-## Contatos:
+## Me encontre também em:
 
 <div>
 <a href = "mailto:luizawandermurem122@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
