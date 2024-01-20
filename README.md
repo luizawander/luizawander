@@ -1,6 +1,6 @@
 # Olá, pessoal. Luiza aqui 👋
 
-⚡ Sou desenvolvedora backend, estou no terceiro período de Análise e Desenvolvimento de Sistemas. 
+⚡ Sou desenvolvedora backend e estou no terceiro período de Análise e Desenvolvimento de Sistemas. 
 
 ## Atualmente estudo e desenvolvo projetos em:
 
