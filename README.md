@@ -14,10 +14,16 @@
 
 🚀 Chat Automatizado para Whatsapp: Simulando um atendimento de uma empresa provedora de internet. Fazendo conexão com um banco de dados no MySQL e com a API do whatsapp.
 
+🚀 Conexão MySQL com um projeto C# no VS Code: https://github.com/luizawander/teste_MySQL
+
+🚀 API Whatsapp em um projeto C# no VS Code: https://github.com/luizawander/API-whatsapp
+
+
 **Estudos:**
 
 🚀 Formação ONE - Oracle Next Education, em parceria com a Alura.
-
+   1. Jogo do número secreto: https://github.com/luizawander/logica-js-projeto_inicial-ONE_Oracle_Alura
+   2. READme: https://github.com/luizawander/luizawander
 
 ## Me encontre também em:
 
