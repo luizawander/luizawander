@@ -8,9 +8,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="90" height="90" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/>
 
-## Atuando em:
-
-**Projetos pessoais:**
+## Projetos pessoais:
 
 🚀 Chat Automatizado para Whatsapp: Simulando um atendimento de uma empresa provedora de internet. Fazendo conexão com um banco de dados no MySQL e com a API do whatsapp.
 
@@ -19,7 +17,7 @@
 🚀 API Whatsapp em um projeto C# no VS Code: https://github.com/luizawander/API-whatsapp
 
 
-**Estudos:**
+## Estudos em Cursos/bootcamp's:
 
 🚀 Formação ONE - Oracle Next Education, em parceria com a Alura.
    1. Jogo do número secreto: https://github.com/luizawander/logica-js-projeto_inicial-ONE_Oracle_Alura
