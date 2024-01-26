@@ -16,7 +16,7 @@
 
 🚀 Conexão MySQL com um projeto C# no VS Code: https://github.com/luizawander/teste_MySQL
 
-🚀 Portifólio desenvolvido a partir do programa ONE- Oracle Next Education: https://github.com/luizawander/Portifolio-HTML-e-CSS-Curso2-aula_5
+🚀 Portfólio desenvolvido a partir do programa ONE- Oracle Next Education: https://github.com/luizawander/Portifolio-HTML-e-CSS-Curso2-aula_5
 
 
 ## Estudos em Cursos/bootcamp's:
