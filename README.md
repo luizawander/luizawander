@@ -8,13 +8,15 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="90" height="90" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/>
 
-## Projetos pessoais:
+## Principais projetos pessoais:
 
-🚀 Chat Automatizado para Whatsapp: Simulando um atendimento de uma empresa provedora de internet. Fazendo conexão com um banco de dados no MySQL e com a API do whatsapp.
+🚀 Site de linha do tempo, desenvolvivo para um projeto do curso de História da Universidade Federal Rural do Rio de Janeiro - Instituto Multidisciplinar. 
+
+🚀 Site de provedora de fibra óptica no qual pode realizar login, solicitar diversos recursos técnicos ou cadastrar um novo cliente.
 
 🚀 Conexão MySQL com um projeto C# no VS Code: https://github.com/luizawander/teste_MySQL
 
-🚀 API Whatsapp em um projeto C# no VS Code: https://github.com/luizawander/API-whatsapp
+🚀 Portifólio desenvolvido a partir do programa ONE- Oracle Next Education: https://github.com/luizawander/Portifolio-HTML-e-CSS-Curso2-aula_5
 
 
 ## Estudos em Cursos/bootcamp's:
