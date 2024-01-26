@@ -10,13 +10,22 @@
 
 ## Principais projetos pessoais:
 
-🚀 Site de linha do tempo, desenvolvivo para um projeto do curso de História da Universidade Federal Rural do Rio de Janeiro - Instituto Multidisciplinar: https://github.com/luizawander/linha-do-tempo
+🚀 Site de linha do tempo, desenvolvivo para um projeto do curso de História da Universidade Federal Rural do Rio de Janeiro - Instituto Multidisciplinar: 
+         1. https://github.com/luizawander/linha-do-tempo
+         2. **EM ANDAMENTO**
 
-🚀 Site de provedora de fibra óptica no qual pode realizar login, solicitar diversos recursos técnicos ou cadastrar um novo cliente: https://github.com/luizawander/site-zapzum
+🚀 Site de provedora de fibra óptica no qual pode realizar login, solicitar diversos recursos técnicos ou cadastrar um novo cliente:
+         1. https://github.com/luizawander/site-zapzum
+         2. **EM ANDAMENTO**
 
-🚀 Conexão MySQL com um projeto C# no VS Code: https://github.com/luizawander/teste_MySQL
+🚀 Conexão MySQL com um projeto C# no VS Code: 
+         1. https://github.com/luizawander/teste_MySQL
+         2. **CONCLUIDO**
+         3.  tutorial no Youtube: https://www.youtube.com/watch?v=osT-W06p96c&t=173s
 
-🚀 Portfólio desenvolvido a partir do programa ONE- Oracle Next Education: https://github.com/luizawander/Portifolio-HTML-e-CSS-Curso2-aula_5
+🚀 Portfólio desenvolvido a partir do programa ONE- Oracle Next Education: 
+         1. https://github.com/luizawander/Portifolio-HTML-e-CSS-Curso2-aula_5
+         2. **CONCLUIDO**
 
 
 ## Estudos em Cursos/bootcamp's:
