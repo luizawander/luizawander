@@ -10,9 +10,9 @@
 
 ## Principais projetos pessoais:
 
-🚀 Site de linha do tempo, desenvolvivo para um projeto do curso de História da Universidade Federal Rural do Rio de Janeiro - Instituto Multidisciplinar. 
+🚀 Site de linha do tempo, desenvolvivo para um projeto do curso de História da Universidade Federal Rural do Rio de Janeiro - Instituto Multidisciplinar: https://github.com/luizawander/linha-do-tempo
 
-🚀 Site de provedora de fibra óptica no qual pode realizar login, solicitar diversos recursos técnicos ou cadastrar um novo cliente.
+🚀 Site de provedora de fibra óptica no qual pode realizar login, solicitar diversos recursos técnicos ou cadastrar um novo cliente: https://github.com/luizawander/site-zapzum
 
 🚀 Conexão MySQL com um projeto C# no VS Code: https://github.com/luizawander/teste_MySQL
 
