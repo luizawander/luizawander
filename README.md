@@ -10,29 +10,29 @@
 
 ## Principais projetos pessoais:
 
-🚀 Site de linha do tempo, desenvolvivo para um projeto do curso de História da Universidade Federal Rural do Rio de Janeiro - Instituto Multidisciplinar: 
-         1. https://github.com/luizawander/linha-do-tempo
-         2. **EM ANDAMENTO**
+🚀 Site de linha do tempo, desenvolvivo para um projeto do curso de História da Universidade Federal Rural do Rio de Janeiro - Instituto Multidisciplinar: <br>
+         1. https://github.com/luizawander/linha-do-tempo <br>
+         2. **EM ANDAMENTO**<br>
 
-🚀 Site de provedora de fibra óptica no qual pode realizar login, solicitar diversos recursos técnicos ou cadastrar um novo cliente:
-         1. https://github.com/luizawander/site-zapzum
-         2. **EM ANDAMENTO**
+🚀 Site de provedora de fibra óptica no qual pode realizar login, solicitar diversos recursos técnicos ou cadastrar um novo cliente: <br>
+         1. https://github.com/luizawander/site-zapzum <br>
+         2. **EM ANDAMENTO** <br>
 
-🚀 Conexão MySQL com um projeto C# no VS Code: 
-         1. https://github.com/luizawander/teste_MySQL
-         2. **CONCLUIDO**
-         3.  tutorial no Youtube: https://www.youtube.com/watch?v=osT-W06p96c&t=173s
+🚀 Conexão MySQL com um projeto C# no VS Code: <br>
+         1. https://github.com/luizawander/teste_MySQL <br>
+         2. **CONCLUIDO** <br>
+         3.  tutorial no Youtube: https://www.youtube.com/watch?v=osT-W06p96c&t=173s <br>
 
-🚀 Portfólio desenvolvido a partir do programa ONE- Oracle Next Education: 
-         1. https://github.com/luizawander/Portifolio-HTML-e-CSS-Curso2-aula_5
-         2. **CONCLUIDO**
+🚀 Portfólio desenvolvido a partir do programa ONE- Oracle Next Education: <br>
+         1. https://github.com/luizawander/Portifolio-HTML-e-CSS-Curso2-aula_5 <br>
+         2. **CONCLUIDO** <br>
 
 
 ## Estudos em Cursos/bootcamp's:
 
-🚀 Formação ONE - Oracle Next Education, em parceria com a Alura.
-   1. Jogo do número secreto: https://github.com/luizawander/logica-js-projeto_inicial-ONE_Oracle_Alura
-   2. READme: https://github.com/luizawander/luizawander
+🚀 Formação ONE - Oracle Next Education, em parceria com a Alura.<br>
+   1. Jogo do número secreto: https://github.com/luizawander/logica-js-projeto_inicial-ONE_Oracle_Alura <br>
+   2. READme: https://github.com/luizawander/luizawander <br>
 
 ## Me encontre também em:
 
