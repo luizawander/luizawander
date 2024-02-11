@@ -28,9 +28,9 @@
          2. **EM ANDAMENTO** <br>
 
 🚀 Formação ONE - Oracle Next Education, em parceria com a Alura<br>
-   - [Challenge decodificador de texto](https://github.com/luizawander/challenge-one-oracle-alura)
-   - [Jogo do número secreto](https://github.com/luizawander/logica-js-projeto_inicial-ONE_Oracle_Alura) <br>
-   - [README](https://github.com/luizawander/luizawander) <br>
+   • [Challenge decodificador de texto](https://github.com/luizawander/challenge-one-oracle-alura)
+   • [Jogo do número secreto](https://github.com/luizawander/logica-js-projeto_inicial-ONE_Oracle_Alura) <br>
+   • [README](https://github.com/luizawander/luizawander) <br>
 
    
 ## Me encontre também em:
