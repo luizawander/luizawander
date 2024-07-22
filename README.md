@@ -29,10 +29,4 @@
         
 🚀 [Página de login usando React:](https://github.com/luizawander/pagina-login) <br>
           1. **CONCLUIDO** <br>
-         
-🚀 Formação ONE - Oracle Next Education, em parceria com a Alura<br>
-   • [Challenge decodificador de texto](https://github.com/luizawander/challenge-one-oracle-alura) <br>
-   • [Portfólio](https://github.com/luizawander/Portifolio-HTML-e-CSS-Curso2-aula_5) <br>
-   • [Jogo do número secreto](https://github.com/luizawander/logica-js-projeto_inicial-ONE_Oracle_Alura) <br>
-   • [README](https://github.com/luizawander/luizawander) <br>
 
