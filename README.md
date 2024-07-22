@@ -27,9 +27,6 @@
 🚀 [API de Sistema de Tarefas com ASP.NET, Entity Framework, SQL Server e Swagger](https://github.com/luizawander/SistemaTarefas_CRUD_API) <br>
         1. **CONCLUIDO** <br>
         
-🚀 [Lógica do chatbot para futuro site que simula uma empresa de internet:](https://github.com/luizawander/chatbot_logica)<br>
-          1. **CONCLUIDO** <br>
-
 🚀 [Página de login usando React:](https://github.com/luizawander/pagina-login) <br>
           1. **CONCLUIDO** <br>
          
