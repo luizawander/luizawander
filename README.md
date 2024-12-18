@@ -1,6 +1,6 @@
 # Olá, pessoal. Luiza aqui 👋
 
-⚡ Estudo Backend e RPA. 
+⚡ Estudo Backend e RPA. <br>
 ⚡ Sou Estágiaria na FGV e atuo desenvolvendo aplicativos no Power Apps, Fluxos no Power Automate, estruturando dados e fazendo levantamento de requisitos para projetos de Software.
 
 
