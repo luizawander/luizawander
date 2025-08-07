@@ -1,7 +1,7 @@
 # Olá, pessoal. Luiza aqui 👋
 
 ⚡ Estudo Backend e RPA. <br>
-⚡ onde desenvolvo sistemas de automação e aplicações, além de estruturação e manipular de dados; utilizando ferramentas da Power Platform (Power Apps e Power Automate), Python e VBA. Também auxilío no levantamento de requisitos, mapeamento de processos, escrita e documentação de projetos de Software.
+⚡ Sou desenvolvedora na FGV, onde atuo na construção de sistemas de automação e aplicações, além de estruturação e manipular de dados; utilizando ferramentas da Power Platform (Power Apps e Power Automate), Python e VBA. Também auxilío no levantamento de requisitos, mapeamento de processos, escrita e documentação de projetos de Software.
 ⚡Fora do trabalho tenho direcionado meus estudos para a área de Engenharia de Dados, com foco em Python, SQL, AWS e Docker; buscando me aprofundar na construção e manutenção de pipelines de dados.
 
 
