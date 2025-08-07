@@ -1,7 +1,8 @@
 # Olá, pessoal. Luiza aqui 👋
 
 ⚡ Estudo Backend e RPA. <br>
-⚡ Sou Estágiaria na FGV e atuo desenvolvendo aplicativos no Power Apps, Fluxos no Power Automate, estruturando dados e fazendo levantamento de requisitos para projetos de Software.
+⚡ onde desenvolvo sistemas de automação e aplicações, além de estruturação e manipular de dados; utilizando ferramentas da Power Platform (Power Apps e Power Automate), Python e VBA. Também auxilío no levantamento de requisitos, mapeamento de processos, escrita e documentação de projetos de Software.
+⚡Fora do trabalho tenho direcionado meus estudos para a área de Engenharia de Dados, com foco em Python, SQL, AWS e Docker; buscando me aprofundar na construção e manutenção de pipelines de dados.
 
 
 💬 Me encontre também em: <br> [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/htmluiza)  <a href="https://wa.me/5521979757982"> <a href = "mailto:luizawandermurem12@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
