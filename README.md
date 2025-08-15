@@ -15,6 +15,9 @@
 
 ## Estudos pessoais:
 
+🚀 [Sistema de agendamento de assentos em van:](https://github.com/luizawander/van_reservations1) <br>
+          1. **Em andamento** <br>
+
 🚀 [Conexão MySQL em um projeto .NET (C#) no VS Code:](https://github.com/luizawander/teste_MySQL) <br>
          1. **CONCLUIDO** <br>
          2.  [Tutorial no Youtube:](https://www.youtube.com/watch?v=osT-W06p96c&t=173s) <br>
@@ -27,4 +30,5 @@
         
 🚀 [Página de login usando React:](https://github.com/luizawander/pagina-login) <br>
           1. **CONCLUIDO** <br>
+    
 
